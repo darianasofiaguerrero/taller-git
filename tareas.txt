@@ -3,3 +3,5 @@
 - Trabajar con ramas
 
 diferencias antes de guardar al final de tareas.txt.
+
+Aprender a utilizar git reset 
