@@ -1,3 +1,5 @@
 - Aprender a revisar el estado del repositorio
 - Practicar commits
 - Trabajar con ramas
+
+diferencias antes de guardar al final de tareas.txt.
